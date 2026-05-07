@@ -1,0 +1,16 @@
+*.dt
+*.cf
+*.cfe
+*.epf
+*.erf
+*.log
+*.tmp
+*.bak
+build/
+out/
+temp/
+tmp/
+.env
+secrets/
+*.key
+*.pem
